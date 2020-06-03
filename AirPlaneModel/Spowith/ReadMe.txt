@@ -1,0 +1,2 @@
+texture that belongs to the site
+http://www.wingsofhonour.com/riseofflight/resources/html_woh_riseofflight_resources_files_releases_planetexturetemplates.en.html
